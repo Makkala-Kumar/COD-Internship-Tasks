@@ -18,7 +18,8 @@ The dataset used for this analysis is [provide_dataset_name_here]. (Add a brief 
 - **visualizations/**: Directory containing visualizations generated during the analysis.
   - *histograms.png*: Histograms showing the distribution of population over time.
   - *scatter_plots.png*: Scatter plots showing the relationship between different population years.
-  - *heatmap.png*: Heatmap showing the correlation between population years.
+  - *![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/5a06c94b-4991-4540-839c-9b04e75dd06e)
+*: Heatmap showing the correlation between population years.
 
 ## Dependencies
 - Python
