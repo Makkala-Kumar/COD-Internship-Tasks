@@ -42,10 +42,11 @@ This project aims to analyze social media data (tweets) to detect hate speech, s
    
 2. **Exploratory Data Analysis (EDA)**:
    - Visualization of frequent words and hashtags.
-   
+      ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/8a4b751c-d860-4774-8110-2a3a77f639b0) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/66d96e2e-4bd6-46bf-acab-51af7b00305c) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/0c36e1a8-e179-40b3-a6b3-49918b632367)
+     
 3. **Feature Extraction**:
    - Conversion of text data to numerical matrices using CountVectorizer.
-   ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/8a4b751c-d860-4774-8110-2a3a77f639b0) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/66d96e2e-4bd6-46bf-acab-51af7b00305c) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/0c36e1a8-e179-40b3-a6b3-49918b632367)
+
 
 4. **Model Training and Evaluation**:
    - Logistic Regression model trained on bag-of-words representation.
