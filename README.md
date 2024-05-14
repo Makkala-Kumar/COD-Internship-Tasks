@@ -24,3 +24,38 @@ The dataset used for this analysis is the World Population Dataset. It contains 
 - pandas
 - matplotlib
 - seaborn
+
+
+# Task 4: SOCIAL MEDIA SENTIMENT ANALYSIS
+### Introduction
+This project aims to analyze social media data (tweets) to detect hate speech, specifically racist or sexist content. The objective is to classify tweets as containing hate speech or not using machine learning techniques.
+
+### Dataset
+- **Size**: 31,962 labeled tweets.
+- **Features**: Text content of tweets.
+- **Labels**: Binary classification (1 for hate speech, 0 for non-hate speech).
+
+### Methodology
+1. **Data Preprocessing**: 
+   - Removal of Twitter handles, special characters, and numbers.
+   - Tokenization and stemming.
+   
+2. **Exploratory Data Analysis (EDA)**:
+   - Visualization of frequent words and hashtags.
+   
+3. **Feature Extraction**:
+   - Conversion of text data to numerical matrices using CountVectorizer.
+   ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/8a4b751c-d860-4774-8110-2a3a77f639b0) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/66d96e2e-4bd6-46bf-acab-51af7b00305c) ![image](https://github.com/Makkala-Kumar/COD-Internship-Tasks/assets/136322019/0c36e1a8-e179-40b3-a6b3-49918b632367)
+
+4. **Model Training and Evaluation**:
+   - Logistic Regression model trained on bag-of-words representation.
+   - Performance evaluation using accuracy, F1-score, and ROC AUC score.
+   - Confusion matrix visualization for analyzing predictions.
+
+### Results
+- Trained model achieved 95% accuracy.
+- F1-score was 54% and ROC AUC score were 94%, respectively.
+- Confusion matrix provided insights into model performance.
+
+### Conclusion
+This project demonstrates the application of NLP and machine learning for social media sentiment analysis, aiding in the detection of hate speech. Future work includes exploring advanced NLP models and real-time deployment.
