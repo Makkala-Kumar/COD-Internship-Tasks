@@ -1,8 +1,9 @@
-**Name:** KUMAR MAKKALA
-**ID:**  CT08WD39
+**Name:** KUMAR MAKKALA  
+**ID:** CT08WD39  
 **Domain:** Data Analytics  
 **Duration:** May to June 2024  
 **Mentor:** SRAVANI GOUNI
+
 
 # Task 1: Exploratory Data Analysis (EDA)
 
