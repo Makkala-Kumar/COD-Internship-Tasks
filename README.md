@@ -1,4 +1,5 @@
 **Name:** KUMAR MAKKALA  
+**Company:** CODTECH IT SOLUTIONS
 **ID:** CT08WD39  
 **Domain:** Data Analytics  
 **Duration:** May to June 2024  
